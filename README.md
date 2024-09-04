@@ -31,7 +31,7 @@
         </tr>
         <tr>
             <td><label><a href="#3.2">3.2.</a></label></td>
-            <td><메구미 스쿠나/td>
+            <td>메구미 스쿠나</td>
         </tr>
         <tr>
             <td><label><a href="#4">4.</a></label></td>
