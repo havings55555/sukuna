@@ -26,11 +26,12 @@
             <td>팁과 운영방법</td>
         </tr>
         <tr>
-            <td><label><a href="#3.1">  3.1 이타도리 스쿠나</a></label></td>
+            <td><label><a href="#3.1">3.1</a></label></td>
+            <td>이타도리 스쿠나</td>
         </tr>
         <tr>
-            <td><label><a href="#3.2">  3.2 메구미 스쿠나</a></label></td>
-            <td></td>
+            <td><label><a href="#3.2">3.2</a></label></td>
+            <td>메구미 스쿠나</td>
         </tr>
         <tr>
             <td><label><a href="#4">4.</a></label></td>
